@@ -1,1 +1,3 @@
-test
+class HelloWorld{
+	int a;
+}
